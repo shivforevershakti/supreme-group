@@ -9,7 +9,7 @@ export const Header = () => {
         {/* Right: Contact Us, LinkedIn, User Icon */}
         <div className="flex items-center space-x-6">
           <button className="px-4 py-2 bg-[#5CD6FF] w-[145px] h-[50px] text-black rounded-[100px] hover:bg-blue-700 hover:text-white cursor-pointer">
-            Contact Us
+            Contact
           </button>
   
           <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
