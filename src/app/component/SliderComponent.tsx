@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import {  useRef, useState } from "react";
 import Slider, { Settings } from "react-slick";
 import VideoPlayer from "./VideoPlayer";
 
